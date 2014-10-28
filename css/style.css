@@ -1,0 +1,38 @@
+body
+{
+	margin-top: 5px;
+}
+.menuBar
+{
+	margin-top: 25px !important;
+	padding-top: 10px !important;
+
+}
+
+.header
+{
+	margin-bottom: 5px;
+}
+.content
+{
+	padding: 25px;
+}
+.footer
+{
+	height: 50px;
+	background-color:black;
+	color: white;
+	padding-top: 15px;
+}
+
+.comment1
+{
+	
+	height: 150px !important;
+}
+.row h2
+{
+	color: #5cb85c;
+	font-style: italic;
+	font-family: cursive;
+}
